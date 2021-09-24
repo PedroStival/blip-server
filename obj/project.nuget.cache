@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CLg8XU4/Kpshxy4Gt9ge2YE8FGdyQHN3J1IPpRDAM32U8LwNMM0G4aJb7aQX18T/t35ZfLuVNsxRzyftR7O30A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pedro\\source\\repos\\ConsoleApp3\\Blip.Servidor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
